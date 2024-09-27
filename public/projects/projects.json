@@ -1,0 +1,114 @@
+
+[
+  {
+    "name": "Smart Energy Meter",
+    "desc": "A smart energy meter designed to monitor and manage energy consumption more efficiently.",
+    "image": "image1.jpg",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Smart IoT-enabled Controller",
+    "desc": "An IoT-enabled system to control and monitor the temperature of industrial chillers and refrigerators.",
+    "image": "image2.jpg",
+    "category": "IoT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Research on DFT",
+    "desc": "A research project focused on the applications and improvements in Discrete Fourier Transform.",
+    "image": "image3.jpg",
+    "category": "Research",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "GUI for PLC",
+    "desc": "A graphical user interface designed for interacting with programmable logic controllers.",
+    "image": "image4.jpg",
+    "category": "Software",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Machine Vision for Printing Machine",
+    "desc": "Implementing machine vision technology to enhance the accuracy and efficiency of printing machines.",
+    "image": "image5.jpg",
+    "category": "Machine Vision",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Website for Coaching Centre",
+    "desc": "A website developed to manage and promote a coaching center.",
+    "image": "image6.jpg",
+    "category": "Web Development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Street POLEVr",
+    "desc": "A project focused on using VR technology for street-level virtual reality experiences.",
+    "image": "image7.jpg",
+    "category": "Virtual Reality",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Smart Infrastructure and Charging Solutions",
+    "desc": "Solutions designed for smart infrastructure, including efficient charging systems.",
+    "image": "image8.jpg",
+    "category": "IoT / Smart Infrastructure",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Adaptive Learning in Education System",
+    "desc": "An adaptive learning system that personalizes educational content for students.",
+    "image": "image9.jpg",
+    "category": "EdTech",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "App for IoT",
+    "desc": "An application designed to manage and interact with various IoT devices.",
+    "image": "image11.jpg",
+    "category": "IoT / Mobile App Development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-commerce Product Recommendation System",
+    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "image": "image10.jpg",
+    "category": "E-commerce / AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+ 
+]

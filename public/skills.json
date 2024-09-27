@@ -1,0 +1,101 @@
+[
+  
+    {
+        "name": "Embedded",
+        "icon": "https://img.icons8.com/?size=48&id=puL87ypQPxxr&format=png"
+    },
+    {
+        "name": "VLSI",
+        "icon": "https://img.icons8.com/?size=80&id=wgftRa47IRtC&format=png"
+    },
+    {
+        "name": "IOT",
+        "icon": "https://img.icons8.com/?size=80&id=1bVDgc9r21ji&format=png"
+    },
+    {
+        "name": "Web",
+        "icon": "https://img.icons8.com/?size=80&id=103683&format=png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"
+    },
+    {
+        "name": "RTOS",
+        "icon": "https://img.icons8.com/?size=60&id=8aOftf1Mid88&format=png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=60&id=LiE3O4QMUPLQ&format=png"
+    },
+    {
+        "name": "MatLab",
+        "icon":"https://img.icons8.com/?size=64&id=gSqIh6uwBymU&format=png"
+    },
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/?size=64&id=66365&format=png"
+    },
+    {
+        "name": "firmware",
+        "icon": "https://img.icons8.com/?size=64&id=ib98_RWZUs9A&format=png"
+    },
+    {
+        "name": "Device Driver",
+        "icon": "https://img.icons8.com/?size=64&id=55045&format=png"
+    },
+
+
+    {
+        "name": "Data science",
+        "icon": "https://img.icons8.com/?size=64&id=104339&format=png"
+    },
+    {
+        "name": "Arduino",
+        "icon": "https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png"
+    },
+    {
+        "name": "PLC",
+        "icon": "https://img.icons8.com/?size=80&id=Cw5EgG94n88K&format=png"
+    },
+    {
+        "name": "SCADA",
+        "icon": "https://img.icons8.com/?size=80&id=Cw5EgG94n88K&format=png"
+    },
+    {
+        "name": "DCS",
+        "icon": "https://img.icons8.com/?size=80&id=Cw5EgG94n88K&format=png"
+    },
+    {
+        "name": "processor",
+        "icon": "https://img.icons8.com/?size=80&id=wgftRa47IRtC&format=png"
+       },
+
+   
+    {
+        "name": "Testing",
+        "icon": "https://img.icons8.com/?size=80&id=ra6rRJhkHeLu&format=png"
+    },
+ 
+    {
+        "name": "Devops",
+        "icon": "https://img.icons8.com/?size=48&id=TEp2t0ShAlfP&format=png"
+    },
+    {
+        "name": "CYBER SECURITY",
+        "icon": "https://img.icons8.com/?size=80&id=pXbJmmqmsmIY&format=png"
+    },
+    {
+        "name": "App Development",
+        "icon": "https://img.icons8.com/?size=80&id=ntEIwKj3RCLm&format=png"
+    },
+    {
+        "name": "Game Development",
+        "icon": "https://img.icons8.com/?size=80&id=zuXTPMKU8SkB&format=png"
+    },   {
+        "name": "Cloud Computing ",
+        "icon": "https://img.icons8.com/?size=80&id=A4Ex3d4V9VuC&format=png"
+    }
+ 
+   
+]
