@@ -5,20 +5,40 @@
         "icon": "https://img.icons8.com/?size=48&id=puL87ypQPxxr&format=png"
     },
     {
-        "name": "VLSI",
-        "icon": "https://img.icons8.com/?size=80&id=wgftRa47IRtC&format=png"
-    },
-    {
         "name": "IOT",
         "icon": "https://img.icons8.com/?size=80&id=1bVDgc9r21ji&format=png"
     },
     {
-        "name": "Web",
+        "name": "VLSI",
+        "icon": "https://img.icons8.com/?size=80&id=wgftRa47IRtC&format=png"
+    },
+    {
+        "name": "PCB Design",
+        "icon": "https://www.cirexx.com/wp-content/uploads/cirexx-pcb-design-steps.jpg"
+    },
+    {
+        "name": "Student Projects",
+        "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"
+    },
+    {
+        "name": "Automotive",
         "icon": "https://img.icons8.com/?size=80&id=103683&format=png"
+    },
+    {
+        "name": "AI",
+        "icon": "https://img.icons8.com/?size=64&id=66365&format=png"
+    },
+    {
+        "name": "Data Science",
+        "icon": "https://img.icons8.com/?size=64&id=104339&format=png"
     },
     {
         "name": "Python",
         "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"
+    },
+    {
+        "name": "Web",
+        "icon": "https://img.icons8.com/?size=80&id=103683&format=png"
     },
     {
         "name": "Linux",
@@ -29,15 +49,7 @@
         "icon":"https://img.icons8.com/?size=64&id=gSqIh6uwBymU&format=png"
     },
     {
-        "name": "AI",
-        "icon": "https://img.icons8.com/?size=64&id=66365&format=png"
-    },
-    {
-        "name": "Data science",
-        "icon": "https://img.icons8.com/?size=64&id=104339&format=png"
-    },
-    {
-        "name": "Arduino",
+        "name": "Power BI",
         "icon": "https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png"
     },
     {
