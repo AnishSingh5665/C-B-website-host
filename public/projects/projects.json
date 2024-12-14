@@ -11,10 +11,10 @@
     }
   },
   {
-    "name": "Smart IoT-enabled Controller",
-    "desc": "An IoT-enabled system to control and monitor the temperature of industrial chillers and refrigerators.",
-    "image": "image2.jpg",
-    "category": "IoT",
+    "name": "Efficient Power Supply (SMPS)",
+    "desc": "We have designed a Efficient Power Supply (SMPS) of input AC 220 Volts 50 Hz and output DC 5 Volts 40 Amp which efficieny is more than 75% which is stable and having ability to surge current. ",
+    "image": "image12.webp",
+    "category": "E-commerce / AI",
     "links": {
       "view": "#",
       "code": "#"
