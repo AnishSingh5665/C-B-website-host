@@ -2,7 +2,7 @@
 [
   {
     "name": "Smart Energy Meter",
-    "desc": "A smart energy meter designed to monitor and manage energy consumption more efficiently.",
+    "desc": "A smart energy meter designed to monitor and manage energy consumption more efficiently. We have designed the PCB using ALTIUM tool.",
     "image": "image1.jpg",
     "category": "IoT",
     "links": {
@@ -21,36 +21,6 @@
     }
   },
   {
-    "name": "Research on DFT",
-    "desc": "A research project focused on the applications and improvements in Discrete Fourier Transform.",
-    "image": "image3.jpg",
-    "category": "Research",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "GUI for PLC",
-    "desc": "A graphical user interface designed for interacting with programmable logic controllers.",
-    "image": "image4.jpg",
-    "category": "Software",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Machine Vision for Printing Machine",
-    "desc": "Implementing machine vision technology to enhance the accuracy and efficiency of printing machines.",
-    "image": "image5.jpg",
-    "category": "Machine Vision",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
     "name": "Website for Coaching Centre",
     "desc": "A website developed to manage and promote a coaching center.",
     "image": "image6.jpg",
@@ -61,28 +31,8 @@
     }
   },
   {
-    "name": "Street POLEVr",
-    "desc": "A project focused on using VR technology for street-level virtual reality experiences.",
-    "image": "image7.jpg",
-    "category": "Virtual Reality",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Smart Infrastructure and Charging Solutions",
-    "desc": "Solutions designed for smart infrastructure, including efficient charging systems.",
-    "image": "image8.jpg",
-    "category": "IoT / Smart Infrastructure",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
     "name": "Adaptive Learning in Education System",
-    "desc": "An adaptive learning system that personalizes educational content for students.",
+    "desc": "An adaptive learning system that personalizes educational content for students based on the feedback. Model will predict the performance of the students by considering the feedback.",
     "image": "image9.jpg",
     "category": "EdTech",
     "links": {
@@ -92,7 +42,7 @@
   },
   {
     "name": "App for IoT",
-    "desc": "An application designed to manage and interact with various IoT devices.",
+    "desc": "An application designed to manage and interact with various IoT devices. Where we can information about data analysis, monitor and control the devices associated with the project.",
     "image": "image11.jpg",
     "category": "IoT / Mobile App Development",
     "links": {
@@ -109,6 +59,27 @@
       "view": "#",
       "code": "#"
     }
+  },
+  {
+    "name": "Recognizing Depression State using Machine Learning",
+    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "image": "image10.jpg",
+    "category": "ML",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Cloth Wash Prediction using ML & IOT",
+    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "image": "image10.jpg",
+    "category": "IOT",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
   }
+  
  
 ]
