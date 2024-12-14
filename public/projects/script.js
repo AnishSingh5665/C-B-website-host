@@ -54,6 +54,7 @@ function showProjects(projects) {
         </div>
         <div class="desc">
           <p>${project.desc}</p>
+          
         </div>
       </div>
     </div>
