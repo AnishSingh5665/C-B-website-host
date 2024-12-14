@@ -14,15 +14,15 @@
     },
     {
         "name": "PCB Design",
-        "icon": "https://www.cirexx.com/wp-content/uploads/cirexx-pcb-design-steps.jpg"
-    },
-    {
-        "name": "Student Projects",
         "icon": "https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png"
     },
     {
+        "name": "Student Projects",
+        "icon": "https://img.icons8.com/?size=100&id=46857&format=png&color=000000"
+    },
+    {
         "name": "Automotive",
-        "icon": "https://img.icons8.com/?size=80&id=103683&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=13097&format=png&color=000000"
     },
     {
         "name": "AI",
@@ -50,11 +50,11 @@
     },
     {
         "name": "Power BI",
-        "icon": "https://img.icons8.com/?size=48&id=Of4lZV2lwBQI&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=70667&format=png&color=000000"
     },
     {
         "name": "Industrial Automation",
-        "icon": "https://img.icons8.com/?size=80&id=Cw5EgG94n88K&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=69697&format=png&color=000000"
     },
     {
         "name": "Testing",
@@ -78,7 +78,7 @@
         "icon": "https://img.icons8.com/?size=80&id=zuXTPMKU8SkB&format=png"
     },   {
         "name": "Data Engineering",
-        "icon": "https://img.icons8.com/?size=100&id=zXbVoM0uWbEA&format=png&color=000000"
+        "icon": "https://img.icons8.com/?size=100&id=46454&format=png&color=000000"
     }
  
    
