@@ -52,7 +52,7 @@
   },
   {
     "name": "E-commerce Product Recommendation System",
-    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "desc": "A system designed to  is deliver product suggestions, enhancing the shopping experience on e-commerce websites by offering personalized recommendations to users based on their preferences and browsing behavior.",
     "image": "image10.jpg",
     "category": "E-commerce / AI",
     "links": {
@@ -62,7 +62,7 @@
   },
   {
     "name": "Recognizing Depression State using Machine Learning",
-    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "desc": "This study uses machine learning algorithms to classify depression based on data features, with the goal of improving diagnosis accuracy and finding hidden patterns in mental health. It uses both supervised and unsupervised models to explore different ways to improve mental health diagnostics and identify possible groups within the depression spectrum.",
     "image": "image10.jpg",
     "category": "ML",
     "links": {
@@ -72,7 +72,7 @@
   },
   {
     "name": "Cloth Wash Prediction using ML & IOT",
-    "desc": "A system designed to provide personalized product recommendations in e-commerce platforms.",
+    "desc": "This system provides weather-based advice on whether it's a good day to wash clothes, using weather data from Visual Crossing's API and location data from IP Geolocation's API. The application also writes the best day and weather conditions to an InfluxDB database for future reference.",
     "image": "image10.jpg",
     "category": "IOT",
     "links": {
