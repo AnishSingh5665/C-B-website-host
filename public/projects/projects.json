@@ -79,6 +79,16 @@
       "view": "#",
       "code": "#"
     }
+  },
+  {
+    "name": "E-commerce Product Recommendation System",
+    "desc": "A system designed to  is deliver product suggestions, enhancing the shopping experience on e-commerce websites by offering personalized recommendations to users based on their preferences and browsing behavior.",
+    "image": "image10.jpg",
+    "category": "E-commerce / AI",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
   }
   
  
